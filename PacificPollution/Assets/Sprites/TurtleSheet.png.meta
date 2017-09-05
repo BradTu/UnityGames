@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 5b57c27fda549724597dfe4976cdeead
+timeCreated: 1495935958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TurtleSheet_0
+    21300002: TurtleSheet_1
+    21300004: TurtleSheet_2
+    21300006: TurtleSheet_3
+    21300008: TurtleSheet_4
+    21300010: TurtleSheet_5
+    21300012: TurtleSheet_6
+    21300014: TurtleSheet_7
+    21300016: TurtleSheet_8
+    21300018: TurtleSheet_9
+    21300020: TurtleSheet_10
+    21300022: TurtleSheet_11
+    21300024: TurtleSheet_12
+    21300026: TurtleSheet_13
+    21300028: TurtleSheet_14
+    21300030: TurtleSheet_15
+    21300032: TurtleSheet_16
+    21300034: TurtleSheet_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TurtleSheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 165
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 161
+        width: 124
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 157
+        width: 124
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 154
+        width: 124
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 152
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_5
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 141
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 142
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 147
+        width: 124
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 155
+        width: 124
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 123
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 124
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 13
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 124
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 10
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 14
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 13
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 22
+        width: 124
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TurtleSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 21
+        width: 123
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
