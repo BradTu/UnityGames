@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 6e7e60f019ca8a04da82c756a8341d23
+timeCreated: 1494827179
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TermiteSheet_0
+    21300002: TermiteSheet_1
+    21300004: TermiteSheet_2
+    21300006: TermiteSheet_3
+    21300008: TermiteSheet_4
+    21300010: TermiteSheet_5
+    21300012: TermiteSheet_6
+    21300014: TermiteSheet_7
+    21300016: TermiteSheet_8
+    21300018: TermiteSheet_9
+    21300020: TermiteSheet_10
+    21300022: TermiteSheet_11
+    21300024: TermiteSheet_12
+    21300026: TermiteSheet_13
+    21300028: TermiteSheet_14
+    21300030: TermiteSheet_15
+    21300032: TermiteSheet_16
+    21300034: TermiteSheet_17
+    21300036: TermiteSheet_18
+    21300038: TermiteSheet_19
+    21300040: TermiteSheet_20
+    21300042: TermiteSheet_21
+    21300044: TermiteSheet_22
+    21300046: TermiteSheet_23
+    21300048: TermiteSheet_24
+    21300050: TermiteSheet_25
+    21300052: TermiteSheet_26
+    21300054: TermiteSheet_27
+    21300056: TermiteSheet_28
+    21300058: TermiteSheet_29
+    21300060: TermiteSheet_30
+    21300062: TermiteSheet_31
+    21300064: TermiteSheet_32
+    21300066: TermiteSheet_33
+    21300068: TermiteSheet_34
+    21300070: TermiteSheet_35
+    21300072: TermiteSheet_36
+    21300074: TermiteSheet_37
+    21300076: TermiteSheet_38
+    21300078: TermiteSheet_39
+    21300080: TermiteSheet_40
+    21300082: TermiteSheet_41
+    21300084: TermiteSheet_42
+    21300086: TermiteSheet_43
+    21300088: TermiteSheet_44
+    21300090: TermiteSheet_45
+    21300092: TermiteSheet_46
+    21300094: TermiteSheet_47
+    21300096: TermiteSheet_48
+    21300098: TermiteSheet_49
+    21300100: TermiteSheet_50
+    21300102: TermiteSheet_51
+    21300104: TermiteSheet_52
+    21300106: TermiteSheet_53
+    21300108: TermiteSheet_54
+    21300110: TermiteSheet_55
+    21300112: TermiteSheet_56
+    21300114: TermiteSheet_57
+    21300116: TermiteSheet_58
+    21300118: TermiteSheet_59
+    21300120: TermiteSheet_60
+    21300122: TermiteSheet_61
+    21300124: TermiteSheet_62
+    21300126: TermiteSheet_63
+    21300128: TermiteSheet_64
+    21300130: TermiteSheet_65
+    21300132: TermiteSheet_66
+    21300134: TermiteSheet_67
+    21300136: TermiteSheet_68
+    21300138: TermiteSheet_69
+    21300140: TermiteSheet_70
+    21300142: TermiteSheet_71
+    21300144: TermiteSheet_72
+    21300146: TermiteSheet_73
+    21300148: TermiteSheet_74
+    21300150: TermiteSheet_75
+    21300152: TermiteSheet_76
+    21300154: TermiteSheet_77
+    21300156: TermiteSheet_78
+    21300158: TermiteSheet_79
+    21300160: TermiteSheet_80
+    21300162: TermiteSheet_81
+    21300164: TermiteSheet_82
+    21300166: TermiteSheet_83
+    21300168: TermiteSheet_84
+    21300170: TermiteSheet_85
+    21300172: TermiteSheet_86
+    21300174: TermiteSheet_87
+    21300176: TermiteSheet_88
+    21300178: TermiteSheet_89
+    21300180: TermiteSheet_90
+    21300182: TermiteSheet_91
+    21300184: TermiteSheet_92
+    21300186: TermiteSheet_93
+    21300188: TermiteSheet_94
+    21300190: TermiteSheet_95
+    21300192: TermiteSheet_96
+    21300194: TermiteSheet_97
+    21300196: TermiteSheet_98
+    21300198: TermiteSheet_99
+    21300200: TermiteSheet_100
+    21300202: TermiteSheet_101
+    21300204: TermiteSheet_102
+    21300206: TermiteSheet_103
+    21300208: TermiteSheet_104
+    21300210: TermiteSheet_105
+    21300212: TermiteSheet_106
+    21300214: TermiteSheet_107
+    21300216: TermiteSheet_108
+    21300218: TermiteSheet_109
+    21300220: TermiteSheet_110
+    21300222: TermiteSheet_111
+    21300224: TermiteSheet_112
+    21300226: TermiteSheet_113
+    21300228: TermiteSheet_114
+    21300230: TermiteSheet_115
+    21300232: TermiteSheet_116
+    21300234: TermiteSheet_117
+    21300236: TermiteSheet_118
+    21300238: TermiteSheet_119
+    21300240: TermiteSheet_120
+    21300242: TermiteSheet_121
+    21300244: TermiteSheet_122
+    21300246: TermiteSheet_123
+    21300248: TermiteSheet_124
+    21300250: TermiteSheet_125
+    21300252: TermiteSheet_126
+    21300254: TermiteSheet_127
+    21300256: TermiteSheet_128
+    21300258: TermiteSheet_129
+    21300260: TermiteSheet_130
+    21300262: TermiteSheet_131
+    21300264: TermiteSheet_132
+    21300266: TermiteSheet_133
+    21300268: TermiteSheet_134
+    21300270: TermiteSheet_135
+    21300272: TermiteSheet_136
+    21300274: TermiteSheet_137
+    21300276: TermiteSheet_138
+    21300278: TermiteSheet_139
+    21300280: TermiteSheet_140
+    21300282: TermiteSheet_141
+    21300284: TermiteSheet_142
+    21300286: TermiteSheet_143
+    21300288: TermiteSheet_144
+    21300290: TermiteSheet_145
+    21300292: TermiteSheet_146
+    21300294: TermiteSheet_147
+    21300296: TermiteSheet_148
+    21300298: TermiteSheet_149
+    21300300: TermiteSheet_150
+    21300302: TermiteSheet_151
+    21300304: TermiteSheet_152
+    21300306: TermiteSheet_153
+    21300308: TermiteSheet_154
+    21300310: TermiteSheet_155
+    21300312: TermiteSheet_156
+    21300314: TermiteSheet_157
+    21300316: TermiteSheet_158
+    21300318: TermiteSheet_159
+    21300320: TermiteSheet_160
+    21300322: TermiteSheet_161
+    21300324: TermiteSheet_162
+    21300326: TermiteSheet_163
+    21300328: TermiteSheet_164
+    21300330: TermiteSheet_165
+    21300332: TermiteSheet_166
+    21300334: TermiteSheet_167
+    21300336: TermiteSheet_168
+    21300338: TermiteSheet_169
+    21300340: TermiteSheet_170
+    21300342: TermiteSheet_171
+    21300344: TermiteSheet_172
+    21300346: TermiteSheet_173
+    21300348: TermiteSheet_174
+    21300350: TermiteSheet_175
+    21300352: TermiteSheet_176
+    21300354: TermiteSheet_177
+    21300356: TermiteSheet_178
+    21300358: TermiteSheet_179
+    21300360: TermiteSheet_180
+    21300362: TermiteSheet_181
+    21300364: TermiteSheet_182
+    21300366: TermiteSheet_183
+    21300368: TermiteSheet_184
+    21300370: TermiteSheet_185
+    21300372: TermiteSheet_186
+    21300374: TermiteSheet_187
+    21300376: TermiteSheet_188
+    21300378: TermiteSheet_189
+    21300380: TermiteSheet_190
+    21300382: TermiteSheet_191
+    21300384: TermiteSheet_192
+    21300386: TermiteSheet_193
+    21300388: TermiteSheet_194
+    21300390: TermiteSheet_195
+    21300392: TermiteSheet_196
+    21300394: TermiteSheet_197
+    21300396: TermiteSheet_198
+    21300398: TermiteSheet_199
+    21300400: TermiteSheet_200
+    21300402: TermiteSheet_201
+    21300404: TermiteSheet_202
+    21300406: TermiteSheet_203
+    21300408: TermiteSheet_204
+    21300410: TermiteSheet_205
+    21300412: TermiteSheet_206
+    21300414: TermiteSheet_207
+    21300416: TermiteSheet_208
+    21300418: TermiteSheet_209
+    21300420: TermiteSheet_210
+    21300422: TermiteSheet_211
+    21300424: TermiteSheet_212
+    21300426: TermiteSheet_213
+    21300428: TermiteSheet_214
+    21300430: TermiteSheet_215
+    21300432: TermiteSheet_216
+    21300434: TermiteSheet_217
+    21300436: TermiteSheet_218
+    21300438: TermiteSheet_219
+    21300440: TermiteSheet_220
+    21300442: TermiteSheet_221
+    21300444: TermiteSheet_222
+    21300446: TermiteSheet_223
+    21300448: TermiteSheet_224
+    21300450: TermiteSheet_225
+    21300452: TermiteSheet_226
+    21300454: TermiteSheet_227
+    21300456: TermiteSheet_228
+    21300458: TermiteSheet_229
+    21300460: TermiteSheet_230
+    21300462: TermiteSheet_231
+    21300464: TermiteSheet_232
+    21300466: TermiteSheet_233
+    21300468: TermiteSheet_234
+    21300470: TermiteSheet_235
+    21300472: TermiteSheet_236
+    21300474: TermiteSheet_237
+    21300476: TermiteSheet_238
+    21300478: TermiteSheet_239
+    21300480: TermiteSheet_240
+    21300482: TermiteSheet_241
+    21300484: TermiteSheet_242
+    21300486: TermiteSheet_243
+    21300488: TermiteSheet_244
+    21300490: TermiteSheet_245
+    21300492: TermiteSheet_246
+    21300494: TermiteSheet_247
+    21300496: TermiteSheet_248
+    21300498: TermiteSheet_249
+    21300500: TermiteSheet_250
+    21300502: TermiteSheet_251
+    21300504: TermiteSheet_252
+    21300506: TermiteSheet_253
+    21300508: TermiteSheet_254
+    21300510: TermiteSheet_255
+    21300512: TermiteSheet_256
+    21300514: TermiteSheet_257
+    21300516: TermiteSheet_258
+    21300518: TermiteSheet_259
+    21300520: TermiteSheet_260
+    21300522: TermiteSheet_261
+    21300524: TermiteSheet_262
+    21300526: TermiteSheet_263
+    21300528: TermiteSheet_264
+    21300530: TermiteSheet_265
+    21300532: TermiteSheet_266
+    21300534: TermiteSheet_267
+    21300536: TermiteSheet_268
+    21300538: TermiteSheet_269
+    21300540: TermiteSheet_270
+    21300542: TermiteSheet_271
+    21300544: TermiteSheet_272
+    21300546: TermiteSheet_273
+    21300548: TermiteSheet_274
+    21300550: TermiteSheet_275
+    21300552: TermiteSheet_276
+    21300554: TermiteSheet_277
+    21300556: TermiteSheet_278
+    21300558: TermiteSheet_279
+    21300560: TermiteSheet_280
+    21300562: TermiteSheet_281
+    21300564: TermiteSheet_282
+    21300566: TermiteSheet_283
+    21300568: TermiteSheet_284
+    21300570: TermiteSheet_285
+    21300572: TermiteSheet_286
+    21300574: TermiteSheet_287
+    21300576: TermiteSheet_288
+    21300578: TermiteSheet_289
+    21300580: TermiteSheet_290
+    21300582: TermiteSheet_291
+    21300584: TermiteSheet_292
+    21300586: TermiteSheet_293
+    21300588: TermiteSheet_294
+    21300590: TermiteSheet_295
+    21300592: TermiteSheet_296
+    21300594: TermiteSheet_297
+    21300596: TermiteSheet_298
+    21300598: TermiteSheet_299
+    21300600: TermiteSheet_300
+    21300602: TermiteSheet_301
+    21300604: TermiteSheet_302
+    21300606: TermiteSheet_303
+    21300608: TermiteSheet_304
+    21300610: TermiteSheet_305
+    21300612: TermiteSheet_306
+    21300614: TermiteSheet_307
+    21300616: TermiteSheet_308
+    21300618: TermiteSheet_309
+    21300620: TermiteSheet_310
+    21300622: TermiteSheet_311
+    21300624: TermiteSheet_312
+    21300626: TermiteSheet_313
+    21300628: TermiteSheet_314
+    21300630: TermiteSheet_315
+    21300632: TermiteSheet_316
+    21300634: TermiteSheet_317
+    21300636: TermiteSheet_318
+    21300638: TermiteSheet_319
+    21300640: TermiteSheet_320
+    21300642: TermiteSheet_321
+    21300644: TermiteSheet_322
+    21300646: TermiteSheet_323
+    21300648: TermiteSheet_324
+    21300650: TermiteSheet_325
+    21300652: TermiteSheet_326
+    21300654: TermiteSheet_327
+    21300656: TermiteSheet_328
+    21300658: TermiteSheet_329
+    21300660: TermiteSheet_330
+    21300662: TermiteSheet_331
+    21300664: TermiteSheet_332
+    21300666: TermiteSheet_333
+    21300668: TermiteSheet_334
+    21300670: TermiteSheet_335
+    21300672: TermiteSheet_336
+    21300674: TermiteSheet_337
+    21300676: TermiteSheet_338
+    21300678: TermiteSheet_339
+    21300680: TermiteSheet_340
+    21300682: TermiteSheet_341
+    21300684: TermiteSheet_342
+    21300686: TermiteSheet_343
+    21300688: TermiteSheet_344
+    21300690: TermiteSheet_345
+    21300692: TermiteSheet_346
+    21300694: TermiteSheet_347
+    21300696: TermiteSheet_348
+    21300698: TermiteSheet_349
+    21300700: TermiteSheet_350
+    21300702: TermiteSheet_351
+    21300704: TermiteSheet_352
+    21300706: TermiteSheet_353
+    21300708: TermiteSheet_354
+    21300710: TermiteSheet_355
+    21300712: TermiteSheet_356
+    21300714: TermiteSheet_357
+    21300716: TermiteSheet_358
+    21300718: TermiteSheet_359
+    21300720: TermiteSheet_360
+    21300722: TermiteSheet_361
+    21300724: TermiteSheet_362
+    21300726: TermiteSheet_363
+    21300728: TermiteSheet_364
+    21300730: TermiteSheet_365
+    21300732: TermiteSheet_366
+    21300734: TermiteSheet_367
+    21300736: TermiteSheet_368
+    21300738: TermiteSheet_369
+    21300740: TermiteSheet_370
+    21300742: TermiteSheet_371
+    21300744: TermiteSheet_372
+    21300746: TermiteSheet_373
+    21300748: TermiteSheet_374
+    21300750: TermiteSheet_375
+    21300752: TermiteSheet_376
+    21300754: TermiteSheet_377
+    21300756: TermiteSheet_378
+    21300758: TermiteSheet_379
+    21300760: TermiteSheet_380
+    21300762: TermiteSheet_381
+    21300764: TermiteSheet_382
+    21300766: TermiteSheet_383
+    21300768: TermiteSheet_384
+    21300770: TermiteSheet_385
+    21300772: TermiteSheet_386
+    21300774: TermiteSheet_387
+    21300776: TermiteSheet_388
+    21300778: TermiteSheet_389
+    21300780: TermiteSheet_390
+    21300782: TermiteSheet_391
+    21300784: TermiteSheet_392
+    21300786: TermiteSheet_393
+    21300788: TermiteSheet_394
+    21300790: TermiteSheet_395
+    21300792: TermiteSheet_396
+    21300794: TermiteSheet_397
+    21300796: TermiteSheet_398
+    21300798: TermiteSheet_399
+    21300800: TermiteSheet_400
+    21300802: TermiteSheet_401
+    21300804: TermiteSheet_402
+    21300806: TermiteSheet_403
+    21300808: TermiteSheet_404
+    21300810: TermiteSheet_405
+    21300812: TermiteSheet_406
+    21300814: TermiteSheet_407
+    21300816: TermiteSheet_408
+    21300818: TermiteSheet_409
+    21300820: TermiteSheet_410
+    21300822: TermiteSheet_411
+    21300824: TermiteSheet_412
+    21300826: TermiteSheet_413
+    21300828: TermiteSheet_414
+    21300830: TermiteSheet_415
+    21300832: TermiteSheet_416
+    21300834: TermiteSheet_417
+    21300836: TermiteSheet_418
+    21300838: TermiteSheet_419
+    21300840: TermiteSheet_420
+    21300842: TermiteSheet_421
+    21300844: TermiteSheet_422
+    21300846: TermiteSheet_423
+    21300848: TermiteSheet_424
+    21300850: TermiteSheet_425
+    21300852: TermiteSheet_426
+    21300854: TermiteSheet_427
+    21300856: TermiteSheet_428
+    21300858: TermiteSheet_429
+    21300860: TermiteSheet_430
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TermiteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 504
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 581
+        width: 507
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 564
+        width: 505
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 588
+        width: 506
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 573
+        width: 505
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 569
+        width: 507
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 569
+        width: 504
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 507
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5
+        width: 505
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 22
+        width: 505
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 35
+        width: 507
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 18
+        width: 505
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TermiteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 25
+        width: 507
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
