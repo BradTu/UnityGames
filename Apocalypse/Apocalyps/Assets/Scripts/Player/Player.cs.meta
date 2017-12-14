@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9cc2bc380c108b84eb3f521eb8487b77
+timeCreated: 1507244489
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameController: {instanceID: 0}
+  - player: {instanceID: 0}
+  - childSprite: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - trapPrefab: {fileID: 1526850378564388, guid: 7e2d099acb34df149a970eaa56e073f4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
