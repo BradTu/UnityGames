@@ -4,6 +4,8 @@ This repository contains four games made in the Unity game engine. All of them a
 
 ## Parasitic Passage
 
+Art and Code by Brad Tully
+
 In this game the player controls a parasite. The goal is to infect every bug in the level before the timer runs out.
 
 Controls:
@@ -40,6 +42,8 @@ First scene of game is "Start Screen" everything else loads in order.
 
 ## Pacific Pollution
 
+Art and Code by Brad Tully
+
 This game is supposed to be a statement on the pollution of our oceans. It starts with on a screen with a top down view of the ocean with trash floating. The player picks up as much as possible before the time runs out. The amount of trash determines how much trash will spawn in the second scene. The second scene is an "endless runner" where the player controls a turtle using the up and down arrows or 'W' and 'S', and tries to avoid eating trash. If the turtle eats 5 pieces of trash it dies and the game ends. As it eats trash it slows down. Also the trash is shown inside the turtles stomach in the bottom left corner of the screen.
 
 ### Start Screen
@@ -57,6 +61,7 @@ This game is supposed to be a statement on the pollution of our oceans. It start
 ## 4HourGameJam
 
 Programming: Brad Tully, Jason Komoda, Joseph Yates
+
 Art: Yitian Yie
 
 Scripts written by me: 
@@ -83,6 +88,7 @@ This contains the boss enemy.
 ## Apocalypse
 
 Programming: Brad Tully, Jason Komoda, Joseph Yates
+
 Art: Yitian Yie
 
 Scripts written by me: 
