@@ -65,10 +65,12 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 Art: Yitian Yie
 
 Scripts written by me: 
+
 https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Asteroid.cs
 https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Enemy.cs
 https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/ShootingEnemy.cs
 https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/SpinningEnemy.cs
+
 On this project I mainly wrote the scripts of the enemies and their behavior.
 
 Other scripts written by Jason Komoda and Joseph Yates
@@ -80,9 +82,11 @@ Controls: WASD to move and left click on the screen to shoot rockets.
 Enemies: The purple aliens can shoot you. The yellow aliens spin and can only be killed by shooting the cap of the spaceship. The asteroids take three shots to destroy them. The boss (eyeball) takes many shots to kill.
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/SpaceShooter2.JPG)
+
 This contains the purple and yellow aliens as well as the asteroid.
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/SpaceShooter3.JPG)
+
 This contains the boss enemy.
 
 ## Apocalypse
@@ -91,7 +95,7 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 
 Art: Yitian Yie
 
-Scripts written by me: 
+Scripts written by me:
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/AnimalParent.cs
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Deer.cs
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Rabbit.cs
