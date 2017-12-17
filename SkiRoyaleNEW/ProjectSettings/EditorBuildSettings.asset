@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 171317fa93e2e402c97ca888f40305ee
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: adef1254f4b0992489e436854c0f71f1
+  - enabled: 1
+    path: Assets/Scenes/Ski_Race1.unity
+    guid: bf2603347338c4a69939f4dda96bc99c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: db59560da588175448c086096f238bab
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 32ad92665a7d2bf43be5e3798e21439a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: 3afb9ee3b48e11d4994ae50322027285

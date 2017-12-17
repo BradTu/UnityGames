@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: d05120abe717b477182fbc4020be7cd5
+timeCreated: 1510187816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mysteryBox_0
+    21300002: mysteryBox_1
+    21300004: mysteryBox_2
+    21300006: mysteryBox_3
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mysteryBox_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mysteryBox_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mysteryBox_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 50
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mysteryBox_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 50
+        width: 90
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -157, y: 52}
+      - {x: -170, y: 46}
+      - {x: -177, y: 17}
+      - {x: -177, y: -53}
+      - {x: -166, y: -72}
+      - {x: -72, y: -72}
+      - {x: -58, y: -56}
+      - {x: -58, y: 25}
+      - {x: -67, y: 52}
+    - - {x: 91, y: 72}
+      - {x: 48, y: 29}
+      - {x: 48, y: -67}
+      - {x: 49, y: -72}
+      - {x: 192, y: -72}
+      - {x: 192, y: 53}
+      - {x: 176, y: 72}
+    - - {x: 341, y: 72}
+      - {x: 313, y: 8}
+      - {x: 313, y: -22}
+      - {x: 334, y: -72}
+      - {x: 375, y: -72}
+      - {x: 407, y: -41}
+      - {x: 407, y: 13}
+      - {x: 373, y: 72}
+    - - {x: -402, y: 42}
+      - {x: -407, y: 37}
+      - {x: -407, y: -62}
+      - {x: -308, y: -62}
+      - {x: -308, y: 42}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AIRightPole
+  - AI
+  - AILeftPole
+  - Player2
+  - P2Sprite
+  - Snowball
+  - FollowingSnowball
+  - SpeedUp
+  - P2LeftPole
+  - P2RightPole
+  - Player1
+  - P1Sprite
+  - P1LeftPole
+  - P1RightPole
+  - Pole
+  - SlowDown
+  - P1ItemBox
+  - P1UseItemText
+  - P2Poles
+  - P2UseItemText
+  - RandomItemBox
+  - P2ItemBox
+  - P1Poles
+  - SoftBoarder
+  - P1SlowedText
+  - P2SlowedText
+  - Sludge
+  - AI1
+  - AI2
+  - AI3
+  - AI4
+  - AI5
+  - AI6
+  - AI 1
+  - AI 2
+  - AI 3
+  - AI 4
+  - AI 5
+  - AI 6
+  - Obstacle
+  - HardBorder
+  - SoundManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - P1Canvas
+  - P2Canvas
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
