@@ -1,6 +1,6 @@
 # UnityGames
 
-This repository contains four games made in the Unity game engine. All of them are 2D games. All of the code and art for Parastic Passage and Pacific Pollution is by me unless noted otherwise. The sounds were acquired from the website http://freesound.org/ . The code for 4HourGameJam and Apocalypse was written by Joseph Yates, Jason Komoda and I. The art for those two games was made by Yitian Yie.
+This repository contains five games made in the Unity game engine. All of them are 2D games and are for PC. All of the code and art for Parastic Passage and Pacific Pollution is by me unless noted otherwise. The sounds were acquired from the website http://freesound.org/ . The code for 4HourGameJam, Apocalypse and SkiRoyaleNEW was written by Joseph Yates, Jason Komoda and I. The art for those three games was made by Yitian Yie.
 
 ## Parasitic Passage
 
@@ -121,3 +121,39 @@ The game during the drought.
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/Apocalypse3.JPG)
 The game during a rain storm.
+
+## Ski Royale
+
+### (This game is still a work in progress, expected to be complete June 2018)
+
+Programming: Brad Tully, Jason Komoda, Joseph Yates
+
+Art: Yitian Yie
+
+Scripts written by me:
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/GameController.cs
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Menu.cs
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Player.cs
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/CameraController.cs
+https://github.com/BradTu/UnityGames/tree/master/SkiRoyaleNEW/Assets/Scripts/Tutorial
+
+For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the tutorial scenes and scripts, and the menus.
+
+All other scripts written by Jason Komoda and Joseph Yates
+
+This game is a combat focused party racing game. The goal is to win the race. You can hit other players with your ski poles and you can use the various items to help you and hurt your foes. As of now the game is 2 player split screen. In the future we will try to support up to 4 players split screen and allow for a single player experience as well. In order to get the full experience of the game you MUST use two XBOX controllers for the PC. Start the game on the "Menu" scene.
+
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski1.JPG)
+Menu screen
+
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski2.JPG)
+Controls for the XBOX controller
+
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski5.JPG)
+Item images and descriptions
+
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski3.JPG)
+Image of the racing
+
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski4.JPG)
+Finish screen
