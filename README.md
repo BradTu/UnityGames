@@ -66,8 +66,7 @@ Art: Yitian Yie
 
 Scripts written by me: 
 
-Markup:
-*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Asteroid.cs
+Markup:*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Asteroid.cs
 *https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Enemy.cs
 *https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/ShootingEnemy.cs
 *https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/SpinningEnemy.cs
