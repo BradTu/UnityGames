@@ -113,6 +113,7 @@ https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scr
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Trap.cs (not implemented in game)
 
 In GameController.cs wrote the "private IEnumerator hungerThirstTimer" starting at line 162
+
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Controllers/GameController.cs 
 
 For this project I mainly did the behavior of the animals and the player controls.
