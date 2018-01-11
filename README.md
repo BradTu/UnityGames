@@ -66,10 +66,13 @@ Art: Yitian Yie
 
 Scripts written by me: 
 
-Markup:*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Asteroid.cs
-*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Enemy.cs
-*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/ShootingEnemy.cs
-*https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/SpinningEnemy.cs
+https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Asteroid.cs
+
+https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/Enemy.cs
+
+https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/ShootingEnemy.cs
+
+https://github.com/BradTu/UnityGames/blob/master/4HourGameJam/Assets/Scripts/SpinningEnemy.cs
 
 On this project I mainly wrote the scripts of the enemies and their behavior.
 
@@ -95,17 +98,21 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 
 Art: Yitian Yie
 
-Markup:
 Scripts written by me:
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/AnimalParent.cs
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Deer.cs
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Rabbit.cs
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Axe.cs
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Player.cs
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Trap.cs (not implemented in game)
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/AnimalParent.cs
+
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Deer.cs
+
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Rabbit.cs
+
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Axe.cs
+
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Player.cs
+
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Player/Trap.cs (not implemented in game)
 
 In GameController.cs wrote the "private IEnumerator hungerThirstTimer" starting at line 162
-*https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Controllers/GameController.cs 
+https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Controllers/GameController.cs 
 
 For this project I mainly did the behavior of the animals and the player controls.
 
@@ -132,12 +139,15 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 Art: Yitian Yie
 
 Scripts written by me:
-Markup:
-*https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/GameController.cs
-*https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Menu.cs
-*https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Player.cs
-*https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/CameraController.cs
-*https://github.com/BradTu/UnityGames/tree/master/SkiRoyaleNEW/Assets/Scripts/Tutorial
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/GameController.cs
+
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Menu.cs
+
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Player.cs
+
+https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/CameraController.cs
+
+https://github.com/BradTu/UnityGames/tree/master/SkiRoyaleNEW/Assets/Scripts/Tutorial
 
 For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the tutorial scenes and scripts, and the menus.
 
