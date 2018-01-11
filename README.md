@@ -99,6 +99,7 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 Art: Yitian Yie
 
 Scripts written by me:
+
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/AnimalParent.cs
 
 https://github.com/BradTu/UnityGames/blob/master/Apocalypse/Apocalyps/Assets/Scripts/Animals/Deer.cs
@@ -139,6 +140,7 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 Art: Yitian Yie
 
 Scripts written by me:
+
 https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/GameController.cs
 
 https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Menu.cs
