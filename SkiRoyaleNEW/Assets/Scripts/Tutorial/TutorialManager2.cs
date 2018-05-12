@@ -13,11 +13,13 @@ using UnityEngine.SceneManagement;
 
 public class TutorialManager2 : MonoBehaviour {
 
-    Player playerOne;
+    public Player playerOne, playerTwo, playerThree, playerFour;
     public Text theText;
+    public Image top, bottom;
     int inc;
     public bool gameOver;
     int count;
+    public string thisScene, nextScene;
 
     //Initialize player, text and other values.
     void Start () {
@@ -27,9 +29,31 @@ public class TutorialManager2 : MonoBehaviour {
             playerOne = playerOneObj.GetComponent<Player>();
             playerOne.theName = "Player One";
         }
-        theText.text = "The hard turn will be useful in instances where you need to turn quickly and at a greater angle. "
-                        + "The hard turn is performed with the Bumpers. Be warned it will slow you down a lot more than " +
-                        "a regular turn. To start the tutorial press 'A'";
+
+        GameObject playerTwoObj = GameObject.FindWithTag("Player2");
+        if (playerTwoObj != null)
+        {
+            playerTwo = playerTwoObj.GetComponent<Player>();
+            playerTwo.theName = "Player Two";
+        }
+
+        GameObject playerThreeObj = GameObject.FindWithTag("Player3");
+        if (playerThreeObj != null)
+        {
+            playerThree = playerThreeObj.GetComponent<Player>();
+            playerThree.theName = "Player Three";
+        }
+
+        GameObject playerFourObj = GameObject.FindWithTag("Player4");
+        if (playerFourObj != null)
+        {
+            playerFour = playerFourObj.GetComponent<Player>();
+            playerFour.theName = "Player Four";
+        }
+
+        theText.text = "Any turn that has arrows will require you to use the hard turn. "
+                        + "The hard turn is performed with the Bumpers. It will slow you down a lot more than " +
+                        "a regular turn, but will give you a boost at the end. Try to follow the arrows. To start the tutorial press 'A'";
         inc = 0;
         count = 0;
         Time.timeScale = 1f;
@@ -42,46 +66,33 @@ public class TutorialManager2 : MonoBehaviour {
         if (playerOne.begin == true && inc == 0)
         {
             theText.text = "";
+            Destroy(bottom);
             inc++;
         }
         //When game is over load next scene
-        if (gameOver == true && Input.GetButtonDown("P1UseItem"))
+        if (Input.GetButtonDown("Jump"))
         {
-            SceneManager.LoadScene("Tutorial3");
+            SceneManager.LoadScene(nextScene);
         }
-        //Restart scene if player presses b
-        if (Input.GetButtonDown("P1Brake"))
+        if (Input.GetButtonDown("P1UseItem"))
         {
-            SceneManager.LoadScene("Tutorial2");
+            playerOne.begin = true;
         }
-        Debug.Log(count);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        //Slow down time when the player enters trigger zones to let them know
-        //when to use the hard turn
-        if (collision.gameObject.tag == "P1Sprite" && count == 0)
+        if (Input.GetButtonDown("P2UseItem"))
         {
-            theText.text = "HOLD DOWN THE LEFT BUMPER!";
-            Time.timeScale = .1f;
-            count++;
+            playerTwo.begin = true;
         }
-        else if (collision.gameObject.tag == "P1Sprite")
+        if (Input.GetButtonDown("P3UseItem"))
         {
-            theText.text = "HOLD DOWN THE RIGHT BUMPER!";
-            Time.timeScale = .1f;
-            count++;
+            playerThree.begin = true;
         }
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        //Return time to normal when they exit the trigger zone
-        if (collision.gameObject.tag == "P1Sprite")
+        if (Input.GetButtonDown("P4UseItem"))
         {
-            Time.timeScale = 1f;
-            //theText.text = "";
+            playerFour.begin = true;
+        }
+        if (Input.GetButtonDown("P1Back"))
+        {
+            SceneManager.LoadScene("Menu");
         }
     }
 }

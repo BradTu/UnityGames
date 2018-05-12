@@ -46,6 +46,67 @@ TagManager:
   - Obstacle
   - HardBorder
   - SoundManager
+  - RedRocket
+  - BlueRocket
+  - Player3
+  - AI 7
+  - P3Sprite
+  - P3UseItemText
+  - P3SlowedText
+  - P3ItemBox
+  - P3LeftPole
+  - P3RightPole
+  - P1Camera
+  - P2Camera
+  - P3Camera
+  - P4Camera
+  - FinishCam
+  - Player4
+  - P4Sprite
+  - P4LeftPole
+  - P4RightPole
+  - P4Canvas
+  - P3Canvas
+  - P4UseItemText
+  - P4SlowedText
+  - P4ItemBox
+  - P1Canvas
+  - P2Canvas
+  - missleAlert
+  - Bomb
+  - PlaceText
+  - Invinc
+  - Deer
+  - InvincAnimation
+  - InvincAnim
+  - Rabbit
+  - Gun
+  - AdvancedAI1
+  - AdvancedAI2
+  - AdvancedAI3
+  - AdvancedAI4
+  - AdvancedAI5
+  - AdvancedAI6
+  - AdvancedAI7
+  - GrandPrix
+  - First
+  - Second
+  - Third
+  - Fourth
+  - Fifth
+  - Sixth
+  - Seventh
+  - Eighth
+  - DeathText
+  - Bullet
+  - Button
+  - Molotov
+  - Fire
+  - PlayerFire
+  - CanvasBack
+  - ItemBoxes
+  - TimeTrial
+  - AimingLine
   layers:
   - Default
   - TransparentFX
@@ -58,9 +119,9 @@ TagManager:
   - P1Canvas
   - P2Canvas
   - Items
-  - 
-  - 
-  - 
+  - P3Canvas
+  - P4Canvas
+  - HealthBar
   - 
   - 
   - 
@@ -82,4 +143,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3317470807
     locked: 0

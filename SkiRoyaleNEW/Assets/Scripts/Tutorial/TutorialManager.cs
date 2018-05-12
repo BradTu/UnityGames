@@ -43,7 +43,7 @@ public class TutorialManager : MonoBehaviour {
         aiOne.begin = true;
         aiTwo.begin = true;
         playerOne.StopCoroutine("SpeedIncrease");
-        velocity = -5f;
+        velocity = -8f;
         gameOver = false;
 
         theText.text = "Move side to side using the left joystick. " +

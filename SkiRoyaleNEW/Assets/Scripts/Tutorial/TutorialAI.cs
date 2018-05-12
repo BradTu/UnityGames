@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//advanced see if should be replaced
 public class TutorialAI : BasicAI {
 
 	// Use this for initialization

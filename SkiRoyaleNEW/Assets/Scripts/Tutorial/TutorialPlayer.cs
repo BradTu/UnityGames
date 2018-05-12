@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿///<summary>
+///Made by Brad Tully 
+///This class is used for the players in the tutorials.
+///It is simplified to work for showing simple mechanics of the game
+///</summary>
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,19 +17,9 @@ public class TutorialPlayer : Player {
         startVelocity = forwardVelocity;
         skiing = true;
         StartCoroutine("SpeedIncrease", skiing);
-        //StartCoroutine ("timer", finished);
         finished = false;
 
-        //Hard turn values set
-        hardDirection = 0;
-        hardDirInc = 2.5f * directionIncrement;
-        hardSideVelInc = 3 * sideVelInc;
-        hardFVelDec = 8 * velocityDecrease;
-        hardDirMax = 70;
-
         inputHoldWait = new WaitForSeconds(inputHoldDelay);
-
-        //begin = false;
 
         hit = false;
     }
@@ -35,16 +32,18 @@ public class TutorialPlayer : Player {
         }
         if (begin == true)
         {
-            Moving();
             releaseBrake();
-            hardTurnUp();
-            SpeedIncrease(skiing);
+            //hardTurnUp();
         }
 	}
 
     private void FixedUpdate()
     {
-        
+        if (begin == true)
+        {
+            Moving();
+            SpeedIncrease(skiing);
+        }
     }
 
     
