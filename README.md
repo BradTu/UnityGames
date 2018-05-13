@@ -140,35 +140,25 @@ Programming: Brad Tully, Jason Komoda, Joseph Yates
 
 Art: Yitian Yie
 
-Scripts written by me:
+For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the grand prix, single race, time trial modes, the interactable objects, multiplayer, the tutorial scenes and scripts, and the menus. I also made all of the race tracks.
 
-https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/GameController.cs
+Other things and scripts written by Jason Komoda and Joseph Yates
 
-https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Menu.cs
-
-https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/Player.cs
-
-https://github.com/BradTu/UnityGames/blob/master/SkiRoyaleNEW/Assets/Scripts/CameraController.cs
-
-https://github.com/BradTu/UnityGames/tree/master/SkiRoyaleNEW/Assets/Scripts/Tutorial
-
-For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the tutorial scenes and scripts, and the menus.
-
-All other scripts written by Jason Komoda and Joseph Yates
-
-This game is a combat focused party racing game. The goal is to win the race. You can hit other players with your ski poles and you can use the various items to help you and hurt your foes. As of now the game is 2 player split screen. In the future we will try to support up to 4 players split screen and allow for a single player experience as well. In order to get the full experience of the game you MUST use two XBOX controllers for the PC. Start the game on the "Menu" scene.
+This game is a combat focused party racing game. The goal is to win the race. You can hit other players with your ski poles and you can use the various items to help you and hurt your foes. Certain items do damage, if you take too much damage you will die and will place poorly in the race. The game supports 1-4 splitscreen. In order to get the full experience of the game you MUST use XBOX controllers for the PC. Start the game on the "Menu" scene. Current game modes: Single Race, Grand Prix and Time Trial
 
 ### Menu Screen
-![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski1.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Menu.JPG)
 
 ### Controls for the XBOX controller
-![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski2.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Controls.JPG)
 
 ### Item Descriptions
-![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski5.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Items1.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Items2.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/Items3.JPG)
 
 ### Racing Scene
-![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski3.JPG)
-
-### Finish Screen
-![Alt text](https://github.com/BradTu/UnityGames/blob/master/Ski4.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/SinglePlayer.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/TwoPlayer.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/ThreePlayer.JPG)
+![Alt text](https://github.com/BradTu/UnityGames/blob/master/FourPlayers.JPG)
