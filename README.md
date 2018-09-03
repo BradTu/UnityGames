@@ -32,7 +32,7 @@ First scene of game is "Start Screen" everything else loads in order.
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/StartScreen.JPG)
 
-### First Level
+### A Level
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/LevelOne.JPG)
 
@@ -44,7 +44,7 @@ First scene of game is "Start Screen" everything else loads in order.
 
 Art and Code by Brad Tully
 
-This game is supposed to be a statement on the pollution of our oceans. It starts with on a screen with a top down view of the ocean with trash floating. The player picks up as much as possible before the time runs out. The amount of trash determines how much trash will spawn in the second scene. The second scene is an "endless runner" where the player controls a turtle using the up and down arrows or 'W' and 'S', and tries to avoid eating trash. If the turtle eats 5 pieces of trash it dies and the game ends. As it eats trash it slows down. Also the trash is shown inside the turtles stomach in the bottom left corner of the screen.
+This game is supposed to be a statement on the pollution of our oceans. It starts with on a screen with a top down view of the ocean with trash floating. The player picks up as much as possible before the time runs out. The amount of trash determines how much trash will spawn in the second scene. The second scene is a runner where the player controls a turtle using the up and down arrows or 'W' and 'S', and tries to avoid eating trash. If the turtle eats 5 pieces of trash it dies and the game ends. As it eats trash it slows down. Also the trash is shown inside the turtles stomach in the bottom left corner of the screen.
 
 ### Start Screen
 
@@ -54,7 +54,7 @@ This game is supposed to be a statement on the pollution of our oceans. It start
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/PicupScene.JPG)
 
-### Level Two ("Endless Runner")
+### Level Two ("Runner")
 
 ![Alt text](https://github.com/BradTu/UnityGames/blob/master/RunnerScene.JPG)
 
@@ -134,13 +134,11 @@ Controls: WASD to move. Left click to use the axe. Left click the buttons on top
 
 ## Ski Royale
 
-### (This game is still a work in progress, expected to be complete June 2018)
-
 Programming: Brad Tully, Jason Komoda, Joseph Yates
 
 Art: Yitian Yie
 
-For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the grand prix, single race, time trial modes, the interactable objects, multiplayer, the tutorial scenes and scripts, and the menus. I also made all of the race tracks.
+For this game the work I did revolved around the Player movement/ controls, the game controller which manages the race scene, the grand prix, single race, time trial modes, the interactable objects, multiplayer, the tutorial scenes and scripts and the menus. I also made all of the race tracks.
 
 Other things and scripts written by Jason Komoda and Joseph Yates
 
