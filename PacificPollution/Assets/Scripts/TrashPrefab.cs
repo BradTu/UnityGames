@@ -21,7 +21,7 @@ public class TrashPrefab : MonoBehaviour {
         while (true)
         {
             rand = Random.Range(1, 6);
-            Vector3 position = new Vector3(8, Random.Range(-5.0f, 2.25f), 0);
+            Vector3 position = new Vector3(10, Random.Range(-5.0f, 2.25f), 0);
             theRotation = Quaternion.Euler(0, 0, Random.Range(0, 360));
             if (rand == 1)
             {
@@ -43,7 +43,7 @@ public class TrashPrefab : MonoBehaviour {
             {
                 Instantiate(trashPrefab5, position, theRotation);
             }
-            yield return new WaitForSeconds(ratio + .25f);
+            yield return new WaitForSeconds(ratio + .05f);
         }
     }
 

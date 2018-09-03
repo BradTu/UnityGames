@@ -14,6 +14,11 @@ public class StartScreen : MonoBehaviour {
         Application.LoadLevel(levelname);
     }
 
+    public void LoadOne()
+    {
+        Application.LoadLevel(PlayerPrefs.GetString("Level"));
+    }
+
     //Exit game
     public void ExitGame()
     {

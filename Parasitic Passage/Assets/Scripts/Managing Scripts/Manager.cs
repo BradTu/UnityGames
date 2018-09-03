@@ -24,6 +24,7 @@ public class Manager : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+        Time.timeScale = 1;
         if (startScreen == false)
         {
             endLevel.text = "";
@@ -43,7 +44,7 @@ public class Manager : MonoBehaviour {
             }
             else
             {
-                Time.timeScale = 1;
+                //Time.timeScale = 1;
             }
             if (endLevel.text == "Good job! Press 'N' to load the next level" && Input.GetKeyDown(KeyCode.N) == true)
             {
@@ -72,6 +73,7 @@ public class Manager : MonoBehaviour {
         if (p.count == winningAmount)
         {
             endLevel.text = "Good job! Press 'N' to load the next level";
+            //Time.timeScale = 0;
         }
     }
 
@@ -91,7 +93,7 @@ public class Manager : MonoBehaviour {
         if (time <= 0 && p.count < winningAmount)
         {
             endLevel.text = "You Lose: R to restart";
-            //Time.timeScale = 0;
+            Time.timeScale = 0;
         }
     }
 
@@ -127,12 +129,9 @@ public class Manager : MonoBehaviour {
     }
 
     // this can be passed to a button that calls this method when clicked
-    public void OnSaveClickOne()
+    public void OnSaveClickOne(string levelName)
     {
-        SaveGame saveGame = new SaveGame();
-
-        // then write it out
-        SaveGameModel(saveGame, saveFileNameOne);
+        PlayerPrefs.SetString("Level", levelName);
     }
 
     // this can be passed to a button that calls this method when clicked
@@ -147,8 +146,7 @@ public class Manager : MonoBehaviour {
     // this can be passed to a button that calls this method when clicked
     public void OnLoadClickOne()
     {
-        // load game does all the work of calling loaddata
-        LoadGame(saveFileNameOne);
+        
     }
 
     // this can be passed to a button that calls this method when clicked

@@ -10,7 +10,7 @@ public class Trash : MonoBehaviour {
     Vector3 moveSpeed;
     float angle;
     public AudioClip pickupSound;
-    public AudioSource source;
+    public AudioSource sourceObj;
 
     // Use this for initialization
     void Start () {
@@ -18,7 +18,13 @@ public class Trash : MonoBehaviour {
         rotationSpeed.y = 0;
         rotationSpeed.z = Random.Range(-3.0f, 3.0f);
         angle = Random.Range(1.0f, 3.0f);
-	}
+
+        GameObject source = GameObject.FindWithTag("Sound");
+        if (source != null)
+        {
+            sourceObj = source.GetComponent<AudioSource>();
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -32,7 +38,7 @@ public class Trash : MonoBehaviour {
         if (mo.gameOver == false)
         {
             mo.trashCount = mo.trashCount + 1;
-            source.PlayOneShot(pickupSound);
+            sourceObj.PlayOneShot(pickupSound);
             Destroy(gameObject);
         }
     }

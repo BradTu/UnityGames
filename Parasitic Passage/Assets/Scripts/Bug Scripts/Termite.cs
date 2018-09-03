@@ -34,7 +34,7 @@ public class Termite : WalkingBug {
         zScale = transform.localScale.z;
         anim = GetComponent<Animator>();
         direction = 1;
-        partsys = GetComponent<ParticleSystem>();
+        //partsys = GetComponent<ParticleSystem>();
     }
 	
 	// Update is called once per frame

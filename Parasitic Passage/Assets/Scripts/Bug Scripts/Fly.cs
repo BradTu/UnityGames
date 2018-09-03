@@ -17,7 +17,7 @@ public class Fly : FlyingBug {
         yScale2 = transform.localScale.y;
         zScale = transform.localScale.z;
         direction = 1;
-        partsys = GetComponent<ParticleSystem>();
+        //partsys = GetComponent<ParticleSystem>();
     }
 	
 	// Update is called once per frame
@@ -40,6 +40,7 @@ public class Fly : FlyingBug {
             {
                 Parasite p = col.gameObject.GetComponent<Parasite>();
                 p.count++;
+                callEnterOnce++;
             }
         }
     }

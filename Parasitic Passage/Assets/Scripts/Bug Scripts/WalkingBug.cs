@@ -14,7 +14,7 @@ public class WalkingBug : Bug {
     {
         if (controlStatus == true)
         {
-            partsys.Emit(1);
+            //partsys.Emit(1);
             patrolVelocity = 0;
             //Check horizontal movement
             horizontalSpeed = Input.GetAxis("Horizontal");

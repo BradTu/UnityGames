@@ -12,7 +12,7 @@ public class FlyingBug : Bug {
     {
         if (controlStatus == true)
         {
-            partsys.Emit(1);
+            //partsys.Emit(1);
             //Check horizontal movement
             horizontalSpeed = Input.GetAxis("Horizontal");
             //Positive x direction

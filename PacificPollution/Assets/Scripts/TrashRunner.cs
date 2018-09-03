@@ -18,7 +18,7 @@ public class TrashRunner : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         transform.position = transform.position + (moveSpeed * Time.deltaTime);
-        if (transform.position.x <= -7)
+        if (transform.position.x <= -10)
         {
             Destroy(gameObject);
         }

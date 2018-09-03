@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        health = 5;
+        health = 100;
     }
 
     // Update is called once per frame
@@ -69,7 +69,7 @@ public class Player : MonoBehaviour
         if (col.gameObject.tag == "Trash")
         {
             TrashRunner t = col.gameObject.GetComponent<TrashRunner>();
-            health = health - 1;
+            health = health - 20;
             increment = increment + .5f;
             source.PlayOneShot(eatSound);
             t.speed = 0;

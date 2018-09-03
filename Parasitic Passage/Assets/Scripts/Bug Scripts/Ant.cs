@@ -33,7 +33,7 @@ public class Ant : WalkingBug {
         anim = GetComponent<Animator>();
         zScale = transform.localScale.z;
         direction = 1;
-        partsys = GetComponent<ParticleSystem>();
+        //partsys = GetComponent<ParticleSystem>();
     }
 	
 	// Update is called once per frame
@@ -52,7 +52,8 @@ public class Ant : WalkingBug {
     {
         if (col.gameObject.tag == "ground")
         {
-            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<EdgeCollider2D>());
+            //Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<EdgeCollider2D>());
+            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<PolygonCollider2D>());
             inSpecialSurface = true;
             gameObject.GetComponent<Rigidbody2D>().gravityScale = 0;
         }
@@ -72,7 +73,8 @@ public class Ant : WalkingBug {
         //Allows the ant to travel through the ground
         if (col.gameObject.tag == "ground")
         {
-            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<EdgeCollider2D>());
+            //Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<EdgeCollider2D>());
+            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), col.gameObject.GetComponent<PolygonCollider2D>());
             inSpecialSurface = true;
             gameObject.GetComponent<Rigidbody2D>().gravityScale = 0;
         }

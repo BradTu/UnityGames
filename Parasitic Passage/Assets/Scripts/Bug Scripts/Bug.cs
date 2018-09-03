@@ -28,7 +28,7 @@ public class Bug : MonoBehaviour {
     public bool Loop = true;
     public int CurrentIdx =-1;
     public Vector3 CurrentWaypoint = Vector3.zero;
-    public ParticleSystem partsys;
+    //public ParticleSystem partsys;
     float shakeTime, shakeAmount;
 
     //Source: https://www.reddit.com/r/Unity2D/comments/2uzhps/enemy_walking_from_point_to_point/

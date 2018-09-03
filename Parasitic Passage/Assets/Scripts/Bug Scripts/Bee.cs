@@ -18,7 +18,7 @@ public class Bee : FlyingBug {
         yScale2 = transform.localScale.y;
         zScale = transform.localScale.z;
         direction = 1;
-        partsys = GetComponent<ParticleSystem>();
+        //partsys = GetComponent<ParticleSystem>();
     }
 
     // Update is called once per frame
